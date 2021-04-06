@@ -1,12 +1,16 @@
 # vue-press
 
-> 
+docsが、Github pagesとかぶるので、srcにしている。
 
 ## Development
 
-```bash
-yarn dev
-yarn build
+```
+$ yarn src:dev
+```
+
+## Build
+```
+$ yarn src:build
 ```
 
 For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
