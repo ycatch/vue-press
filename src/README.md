@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Hello world
+tagline: This is test site of vue-press 
 actionText: Quick Start →
 actionLink: /guide/
 features:
